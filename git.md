@@ -1,11 +1,11 @@
 # Git Cheatsheet
 ## Commants
 
-| Git commands                 | Function
-| :--------------------------- | :--------------------------- |
-| **Base commands** | |
-| `git init` | Make project
-| `git status` | Status
+    | Git commands                 | Function
+    | :--------------------------- | :--------------------------- |
+    | **Base commands** | |
+    | `git init` | Make project
+    | `git status` | Status
 
 ## Stepps
 ### rebase
